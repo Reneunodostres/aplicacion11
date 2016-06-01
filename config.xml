@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
 	    xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "com.phonegap.example3"
+		id          = "com.phonegap.example11"
 		versionCode = "10"
 		version     = "1.0.0" >
 		
     <!-- versionCode is optional and Android only -->
 	
-	<name>Informacion del volvan Popocatepetl</name>
+	<name>univesidades</name>
 	
 	<description>
-	    Aplicacion que muestra informacion del volcan
+	    Aplicacion que muestra informacion de escuelas
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
@@ -26,5 +26,5 @@
 
     <!-- Colovcar icono app -->
 	
-<icon src="res/android/mdpi.png" />
+<icon src="imagenes/mpdi.png" />
 </widget>
